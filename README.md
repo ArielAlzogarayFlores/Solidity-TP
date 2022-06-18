@@ -14,6 +14,6 @@ b) Creamos un array de address como en cant_Materias que se llame _docentes y le
 
 c) Declaramos un event que toma un mensaje y la address del docente que llama a la función. Luego, en set_nota_materia, lo emitimos.
 
-Observación: El promedio no nos retorna nada y al querer realizar la transacción para probar la función set_bim_nota_materia nos pide una cantidad absurda de ether.
+Observación: Al querer realizar la transacción para probar la función set_bim_nota_materia nos pide una cantidad absurda de ether.
 
 
